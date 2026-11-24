@@ -22,3 +22,7 @@ dist/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Vidéo LinkedIn : enregistrement brut et fichiers intermédiaires du montage (regénérables)
+livrables/linkedin/raw/
+livrables/linkedin/work/

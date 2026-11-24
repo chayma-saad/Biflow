@@ -1,0 +1,18 @@
+{
+  "video": "C:\\Users\\Chayma\\Desktop\\BiFlow\\livrables\\linkedin\\raw\\page@c74ecb1e3d0ef23fcc593cf11496a915.webm",
+  "marks": {
+    "form": 1.17,
+    "picked": 6.91,
+    "launch": 10.0,
+    "running": 11.56,
+    "etl_done": 20.19,
+    "audit_ko": 485.37,
+    "rerun": 485.38,
+    "done": 949.25,
+    "renvoi": 953.69,
+    "journal": 960.39,
+    "etl_panel": 969.37,
+    "dashboard": 981.57,
+    "end": 999.51
+  }
+}
